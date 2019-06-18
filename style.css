@@ -180,7 +180,10 @@ nav {
     height: 200px;
     flex: 1;
 }
-
+.about-para {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
 
 .line {
     border: 2px solid plum;
